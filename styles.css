@@ -1,0 +1,25 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #000000;
+    color: #f4f4f4;
+}
+
+h1 {
+    border-bottom: 3px solid #f4f4f4;
+    padding-bottom: 0.5rem;
+}
+
+h2 {
+    margin-top: 2rem;
+    color: #f4f4f4;
+}
+
+p {
+    background-color: grey;
+    padding: 1rem;
+    border-radius: 6px;
+}
